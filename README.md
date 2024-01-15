@@ -1,5 +1,6 @@
 # Trains
 A rails-like framework written for Common Lisp.
+![Trains logo](./logo.png)
 
 Comes out the box with
 - Rails-like MVC
